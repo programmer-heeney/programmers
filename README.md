@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_collatz.js)|
 |[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_average.js)|
 |[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_harshad.js)|
 |[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_blind_number.js)|
