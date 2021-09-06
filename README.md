@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_desc_sort.js)|
 |[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_sqrt.js)|
 |[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_delete_min.js)|
 |[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_even_odd.js)|
