@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_delete_min.js)|
 |[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_even_odd.js)|
 |[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_gcd_lcm.js)|
 |[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_collatz.js)|
