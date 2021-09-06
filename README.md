@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_even_odd.js)|
 |[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_gcd_lcm.js)|
 |[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_collatz.js)|
 |[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_average.js)|
