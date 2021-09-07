@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_caesar.js)|
 |[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_sum_divisor.js)|
 |[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_weird_string.js)|
 |[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_sum.js)|
