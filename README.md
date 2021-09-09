@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_string_p_y.js)|
 |[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_desc_string.js)|
 |[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_handle_string.js)|
 |[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_find_kim.js)|
