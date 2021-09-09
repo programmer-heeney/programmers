@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[(1차) 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_dart_game.js)|
 |[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_hate_same.js)|
 |[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_divisor.js)|
 |[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_sum_two.js)|
