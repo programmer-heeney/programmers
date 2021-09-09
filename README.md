@@ -7,7 +7,8 @@
 
 |문제|코드|
 |---|:---:|
-|[소수 찾기?](https://programmers.co.kr/learn/courses/30/lessons/12921)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_primenum.js)|
+|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_find_kim.js)|
+|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_primenum.js)|
 |[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_watermelon.js)|
 |[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_string_to_num.js)|
 |[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_caesar.js)|
