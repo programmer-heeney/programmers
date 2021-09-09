@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_handle_string.js)|
 |[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_find_kim.js)|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_primenum.js)|
 |[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_watermelon.js)|
