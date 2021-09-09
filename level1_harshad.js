@@ -9,3 +9,7 @@ function solution(x) {
     answer = X % sum === 0 ? true : false;
     return answer;
 }
+
+console.time('test');
+solution(100);
+console.timeEnd('test');
