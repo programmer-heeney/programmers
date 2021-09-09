@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_divisor.js)|
 |[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_sum_two.js)|
 |[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_string_sort.js)|
 |[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_string_p_y.js)|
