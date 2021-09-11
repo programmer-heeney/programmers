@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[(1차) 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_secret_map.js)|
 |[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_middle_char.js)|
 |[(1차) 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_dart_game.js)|
 |[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_hate_same.js)|
