@@ -14,6 +14,7 @@ function solution(weights, head2head) {
     })
     head2head.forEach((results, i) => {
         if (results.match(/W/gi)) {
+            // test case 문제로 헤맴, 입력으로 대소문자 모두 고려해줘야함
             players[i].winRate = results.match(/W/gi).length / results.replace(/N/gi, '').length;
         };
         for (let j = 0; j < results.length; j++) {
