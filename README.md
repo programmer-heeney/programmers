@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_ternary.js)|
 |[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_budget.js)|
 |[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_two_nums_sum.js)|
 |[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_2016.js)|
