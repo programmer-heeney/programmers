@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_phonekemon.js)|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_failure_rate.js)|
 |[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_divisor_sum.js)|
 |[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_ternary.js)|
