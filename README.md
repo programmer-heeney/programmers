@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_mock_exam.js)|
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_gym_clothes.js)|
 |[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_phonekemon.js)|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_failure_rate.js)|
