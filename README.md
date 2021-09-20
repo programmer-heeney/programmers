@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_k_number.js)|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_mock_exam.js)|
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_gym_clothes.js)|
 |[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_phonekemon.js)|
