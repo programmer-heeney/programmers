@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_add_nonexistence.js)|
 |[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_add_signs.js)|
 |[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_dot_product.js)|
 |[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_make_prime.js)|
