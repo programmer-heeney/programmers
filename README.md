@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_new_id.js)|
 |[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_nums_alphabet.js)|
 |[(8주차) 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_minimum_rectangle.js)|
 |[(카카오 인턴) 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_keypad.js)|
