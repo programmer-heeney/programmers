@@ -7,6 +7,7 @@
 
 |문제|코드|
 |---|:---:|
+|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_lotto.js)|
 |[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_the_rest.js)|
 |[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_new_id.js)|
 |[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[js](https://github.com/programmer-heeney/programmers/blob/master/level1_nums_alphabet.js)|
